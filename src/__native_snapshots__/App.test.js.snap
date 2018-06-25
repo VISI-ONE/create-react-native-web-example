@@ -1,0 +1,348 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App example snapshot test on - ios 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "#fff",
+      "display": "flex",
+      "flex": 1,
+      "flexDirection": "column",
+      "justifyContent": "center",
+      "overflow": "hidden",
+      "position": "relative",
+      "width": "100%",
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#fff",
+        "flex": 1,
+        "flexDirection": "column",
+        "justifyContent": "center",
+        "position": "relative",
+        "width": "100%",
+      }
+    }
+  >
+    <Image
+      source="logo.png"
+      style={
+        Object {
+          "height": 300,
+          "transform": Array [
+            Object {
+              "rotate": "0deg",
+            },
+          ],
+          "width": 300,
+        }
+      }
+    />
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "fontSize": 16,
+          "fontWeight": "bold",
+        }
+      }
+    >
+      Create React Native Web App
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+    >
+      Open up src/App.js to start working on your app!
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+    >
+      Changes you make will automatically reload.
+    </Text>
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+    >
+      Shake your phone to open the developer menu.
+    </Text>
+    <View
+      accessible={true}
+      isTVSelectable={true}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        Object {
+          "backgroundColor": "#1B95E0",
+          "borderRadius": 3,
+          "marginTop": 10,
+          "marginVertical": 10,
+          "padding": 20,
+          "shadowColor": "#CCCCCC",
+          "shadowOffset": Object {
+            "height": 1,
+            "width": 1,
+          },
+          "shadowOpacity": 0.5,
+          "shadowRadius": 3,
+        }
+      }
+    >
+      <Text
+        accessible={true}
+        allowFontScaling={true}
+        ellipsizeMode="tail"
+        style={
+          Object {
+            "color": "#fff",
+            "fontSize": 16,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        Rotate Logo
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "bottom": 0,
+        "flexDirection": "row",
+        "paddingLeft": 5,
+        "position": "absolute",
+        "right": -280,
+        "top": 0,
+        "width": 320,
+      }
+    }
+  >
+    <View
+      config={
+        Object {
+          "directionalOffsetThreshold": 90,
+          "velocityThreshold": 0.5,
+        }
+      }
+      onMoveShouldSetResponder={[Function]}
+      onMoveShouldSetResponderCapture={[Function]}
+      onResponderEnd={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderReject={[Function]}
+      onResponderRelease={[Function]}
+      onResponderStart={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      onStartShouldSetResponderCapture={[Function]}
+      onSwipeLeft={[Function]}
+      onSwipeRight={[Function]}
+      style={
+        Object {
+          "flex": 1,
+        }
+      }
+    >
+      <View
+        style={
+          Object {
+            "flex": 1,
+            "flexDirection": "row",
+          }
+        }
+      >
+        <View
+          accessible={true}
+          isTVSelectable={true}
+          onResponderGrant={[Function]}
+          onResponderMove={[Function]}
+          onResponderRelease={[Function]}
+          onResponderTerminate={[Function]}
+          onResponderTerminationRequest={[Function]}
+          onStartShouldSetResponder={[Function]}
+          style={
+            Object {
+              "alignSelf": "flex-start",
+              "borderRadius": 3,
+              "marginRight": 10,
+              "marginTop": 5,
+              "padding": 0,
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Object {
+                "color": "#333333",
+                "fontWeight": "bold",
+              }
+            }
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={false}
+              ellipsizeMode="tail"
+              style={
+                Array [
+                  Object {
+                    "color": "#333333",
+                    "fontSize": 30,
+                  },
+                  undefined,
+                  Object {
+                    "fontFamily": "Material Icons",
+                    "fontStyle": "normal",
+                    "fontWeight": "normal",
+                  },
+                ]
+              }
+            >
+              
+            </Text>
+          </Text>
+        </View>
+        <View
+          style={
+            Object {
+              "alignItems": "stretch",
+              "alignSelf": "stretch",
+              "backgroundColor": "#DDDDDD",
+              "flexDirection": "column",
+              "overflow": "hidden",
+              "paddingTop": 10,
+              "position": "relative",
+              "shadowColor": "#CCCCCC",
+              "shadowOffset": Object {
+                "height": 1,
+                "width": 1,
+              },
+              "shadowOpacity": 0.5,
+              "shadowRadius": 3,
+              "width": 280,
+            }
+          }
+        >
+          <View
+            accessible={true}
+            isTVSelectable={true}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={null}
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              ellipsizeMode="tail"
+              style={
+                Object {
+                  "alignSelf": "flex-start",
+                  "borderRadius": 3,
+                  "color": "#1B95E0",
+                  "display": "flex",
+                  "fontSize": 24,
+                  "fontWeight": "bold",
+                  "marginBottom": 10,
+                  "marginTop": 10,
+                  "paddingLeft": 10,
+                  "width": "100%",
+                }
+              }
+            >
+              Home
+            </Text>
+          </View>
+          <View
+            accessible={true}
+            isTVSelectable={true}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={null}
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              ellipsizeMode="tail"
+              style={
+                Object {
+                  "alignSelf": "flex-start",
+                  "borderRadius": 3,
+                  "color": "#1B95E0",
+                  "display": "flex",
+                  "fontSize": 24,
+                  "fontWeight": "bold",
+                  "marginBottom": 10,
+                  "marginTop": 10,
+                  "paddingLeft": 10,
+                  "width": "100%",
+                }
+              }
+            >
+              About
+            </Text>
+          </View>
+          <View
+            accessible={true}
+            isTVSelectable={true}
+            onResponderGrant={[Function]}
+            onResponderMove={[Function]}
+            onResponderRelease={[Function]}
+            onResponderTerminate={[Function]}
+            onResponderTerminationRequest={[Function]}
+            onStartShouldSetResponder={[Function]}
+            style={null}
+          >
+            <Text
+              accessible={true}
+              allowFontScaling={true}
+              ellipsizeMode="tail"
+              style={
+                Object {
+                  "alignSelf": "flex-start",
+                  "borderRadius": 3,
+                  "color": "#1B95E0",
+                  "display": "flex",
+                  "fontSize": 24,
+                  "fontWeight": "bold",
+                  "marginBottom": 10,
+                  "marginTop": 10,
+                  "paddingLeft": 10,
+                  "width": "100%",
+                }
+              }
+            >
+              Contact
+            </Text>
+          </View>
+        </View>
+      </View>
+    </View>
+  </View>
+</View>
+`;

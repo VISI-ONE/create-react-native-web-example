@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.nav-link {
+  border-radius: 3px;
+  background-color: rgba(255, 255, 255, 0);
+  transition: backgroundColor 0.25s;
+}
+.nav-link:hover {
+  background-color: rgba(255, 255, 255, 0.25);
+}
